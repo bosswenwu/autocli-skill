@@ -1,0 +1,4 @@
+{
+  "name": "autocli-skill",
+  "install": "curl -fsSL https://raw.githubusercontent.com/nashsu/AutoCLI/main/scripts/install.sh | sh && autocli --version"
+}
